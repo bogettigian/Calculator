@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:2:1-69:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/bf539576d35d14e556040733683d3942/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/15b0ad5506cf440dd24a37d7a5dcabd2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/08beaf85e9fe602d8a6a52c7ec158dcd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/a77064b13effa3d3f63d76ed99206802/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/e1c4b2882cfbdde690ca885f9a73418a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/7a20ad1133b15630b628b6a5f25085ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/02b392cc28334f72a05a2d18409f70fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/b17ee73dfeda6c595bde82d0f8fb66e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/8e8c7c2350df645a5969f3f74f7afc2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/903a5cafba607ca72737d3670ff9830d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/6964631e78b015a157fd0c22c434553c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/93d07fb77c29b0cd47ebb7bcc6fc2077/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/3ef5715b8c6432beb0d12cc79fb3500d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/225f69ef90f853c430aff895b35f6028/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/75bee17aeeecfe4d2ab4f3f25734e9d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/f1d12c930e92aa304f0aab0eaa0d2b98/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/e85cbf7685b7fccacb973e3698e511c6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/596e88752a4ef1d2d950ed4c2396da90/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3b0e122d785562853a618201a9c72133/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/b5a1953c92dd6b20da4ec90152b67aa1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/3184ccb9095162dd0fd1102648919666/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/41513e56b01b858b72f2b47153e10732/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cdb8ded045dad7dd83820f4740929c42/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7a14923d091d957f029f87966759879a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4101c947012c716d9e08820b63ba8fe1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/a7003598abe4f622e2fd6e6f448e942c/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:4:5-42
+		INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml
+		INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:2:1-69:12
+		INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:2:1-69:12
+		INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:2:11-69
+	tools:ignore
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:6:5-42
+	android:installLocation
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:5:5-45
+supports-screens
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:8:5-13:40
+	android:largeScreens
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:10:9-36
+	android:smallScreens
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:12:9-36
+	android:normalScreens
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:11:9-37
+	android:xlargeScreens
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:13:9-37
+	android:anyDensity
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:9:9-34
+uses-feature#0x00020000
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:15:5-54
+	android:glEsVersion
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:15:19-51
+uses-permission#android.permission.INTERNET
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:17:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:20:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:23:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:26:9-72
+application
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:29:5-67:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/15b0ad5506cf440dd24a37d7a5dcabd2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/15b0ad5506cf440dd24a37d7a5dcabd2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/f1d12c930e92aa304f0aab0eaa0d2b98/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/f1d12c930e92aa304f0aab0eaa0d2b98/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/e85cbf7685b7fccacb973e3698e511c6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/e85cbf7685b7fccacb973e3698e511c6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/f1d12c930e92aa304f0aab0eaa0d2b98/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:33:9-41
+	android:icon
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:31:9-40
+	android:banner
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:30:9-46
+	android:theme
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:34:9-50
+	android:isGame
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:32:9-30
+activity#com.BogettiBozzo.Calculator.MainActivity
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:36:9-43:20
+	android:name
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:36:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:37:13-42:29
+action#android.intent.action.MAIN
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:40:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:41:17-86
+	android:name
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:41:27-83
+activity#com.BogettiBozzo.Calculator.UnityPlayerActivity
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:45:9-55:20
+	android:screenOrientation
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:51:13-51
+	android:label
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:49:13-45
+	android:launchMode
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:50:13-44
+	android:hardwareAccelerated
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:48:13-48
+	android:configChanges
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:47:13-194
+	android:name
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:46:13-48
+meta-data#unityplayer.UnityActivity
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:52:13-54:40
+	android:value
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:54:17-37
+	android:name
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:53:17-57
+meta-data#unity.build-id
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:57:9-59:68
+	android:value
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:59:13-65
+	android:name
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:58:13-42
+meta-data#unity.splash-mode
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:60:9-62:33
+	android:value
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:62:13-30
+	android:name
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:61:13-45
+meta-data#unity.splash-enable
+ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:63:9-65:36
+	android:value
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:65:13-33
+	android:name
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml:64:13-47
+uses-sdk
+INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml
+INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/bf539576d35d14e556040733683d3942/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/bf539576d35d14e556040733683d3942/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/15b0ad5506cf440dd24a37d7a5dcabd2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/15b0ad5506cf440dd24a37d7a5dcabd2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/08beaf85e9fe602d8a6a52c7ec158dcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/08beaf85e9fe602d8a6a52c7ec158dcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/a77064b13effa3d3f63d76ed99206802/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/a77064b13effa3d3f63d76ed99206802/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/e1c4b2882cfbdde690ca885f9a73418a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/e1c4b2882cfbdde690ca885f9a73418a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/7a20ad1133b15630b628b6a5f25085ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/7a20ad1133b15630b628b6a5f25085ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/02b392cc28334f72a05a2d18409f70fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/02b392cc28334f72a05a2d18409f70fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/b17ee73dfeda6c595bde82d0f8fb66e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/b17ee73dfeda6c595bde82d0f8fb66e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/8e8c7c2350df645a5969f3f74f7afc2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/8e8c7c2350df645a5969f3f74f7afc2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/903a5cafba607ca72737d3670ff9830d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/903a5cafba607ca72737d3670ff9830d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/6964631e78b015a157fd0c22c434553c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/6964631e78b015a157fd0c22c434553c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/93d07fb77c29b0cd47ebb7bcc6fc2077/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/93d07fb77c29b0cd47ebb7bcc6fc2077/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/3ef5715b8c6432beb0d12cc79fb3500d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/3ef5715b8c6432beb0d12cc79fb3500d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/225f69ef90f853c430aff895b35f6028/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/225f69ef90f853c430aff895b35f6028/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/75bee17aeeecfe4d2ab4f3f25734e9d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/75bee17aeeecfe4d2ab4f3f25734e9d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/f1d12c930e92aa304f0aab0eaa0d2b98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/f1d12c930e92aa304f0aab0eaa0d2b98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/e85cbf7685b7fccacb973e3698e511c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/e85cbf7685b7fccacb973e3698e511c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/596e88752a4ef1d2d950ed4c2396da90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/596e88752a4ef1d2d950ed4c2396da90/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3b0e122d785562853a618201a9c72133/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3b0e122d785562853a618201a9c72133/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/b5a1953c92dd6b20da4ec90152b67aa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/b5a1953c92dd6b20da4ec90152b67aa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/3184ccb9095162dd0fd1102648919666/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/3184ccb9095162dd0fd1102648919666/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/41513e56b01b858b72f2b47153e10732/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/41513e56b01b858b72f2b47153e10732/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cdb8ded045dad7dd83820f4740929c42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cdb8ded045dad7dd83820f4740929c42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7a14923d091d957f029f87966759879a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7a14923d091d957f029f87966759879a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4101c947012c716d9e08820b63ba8fe1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4101c947012c716d9e08820b63ba8fe1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/a7003598abe4f622e2fd6e6f448e942c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /home/bogettigian/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/a7003598abe4f622e2fd6e6f448e942c/AndroidManifest.xml:20:5-44
+INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml
+INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml
+		INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml
+		ADDED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml
+		INJECTED from /home/bogettigian/Programas/Workspace/Calculator/src/main/AndroidManifest.xml
